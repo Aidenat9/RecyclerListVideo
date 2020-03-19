@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerListVideo</string>
+    <integer name="key_mediaplayer">1</integer>
+</resources>
